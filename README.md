@@ -28,7 +28,7 @@ Nesse passo devem ser inseridas as IAM credentials (Access Key e Secret Access K
 Para executar a aplicação utilize:
 
 ```
-python main.py
+python projeto.py
 ```
 
 A aplicação inicia na tela do menu principal e dá opção de escolher entre os diversos serviços que ela oference.
