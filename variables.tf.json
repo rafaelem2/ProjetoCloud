@@ -1,0 +1,25 @@
+{
+    "variable": {
+        "instance_name": {
+            "default": []
+        },
+        "instance_type": {
+            "default": []
+        },
+        "vpc_name": {
+            "default": []
+        },
+        "user_name": {
+            "default": []
+        },
+        "sg_name": {
+            "default": []
+        },
+        "instance_sg": {
+            "default": []
+        },
+        "instance_subnet": {
+            "default": []
+        }
+    }
+}
